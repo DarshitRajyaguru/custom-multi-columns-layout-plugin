@@ -13,4 +13,3 @@
  * Text Domain:         custom-multi-columns
  * Langauges:           /languages
  */
-
